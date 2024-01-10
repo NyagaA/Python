@@ -18,3 +18,5 @@ pet = input("What's your pet's name?\n")    #"\n" makes the input cursor show on
 
 #4. Combine the name of the city and pet and show them their band name
 print("Your band name could be " + (city) + " " +( pet))    # " " creates a space between the city and pet to form the band name
+
+##
