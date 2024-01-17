@@ -80,7 +80,7 @@ else:
 #4. LEAP YEAR PROGRAM
 # Write a program that checks if a year is a leap year or not
 
-year = int(input("Which year do you want to check? "))\
+year = int(input("Which year do you want to check? "))
 
 if year % 4 == 0:
     if year % 100 == 0:
